@@ -1,4 +1,6 @@
 #!/usr/bin/env.groovy
-def echo_p(){
-echo 'Hello world'
+
+def call (){
+
+  echo "hello"
 }
