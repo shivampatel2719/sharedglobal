@@ -1,0 +1,6 @@
+node{
+    stage('web-hook'){
+        echo "This is triggered due to push"
+    }
+    
+}
