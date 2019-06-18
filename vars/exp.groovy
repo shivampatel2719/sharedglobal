@@ -1,4 +1,4 @@
-#!/usr/bin/env groovy
+#!/usr/bin/env.groovy
 def echo_p(){
-echo "Hello world"
+echo 'Hello world'
 }
